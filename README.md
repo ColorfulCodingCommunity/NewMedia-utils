@@ -6,6 +6,10 @@ Repository of several new media algorithms and tools.
 ### Monocular
 -  [Unik3D](https://github.com/lpiccinelli-eth/unik3d) -  Universal Camera Monocular 3D Estimation
 
+## 3D point tracking
+- [TAPIP3D](https://github.com/zbw001/TAPIP3D) - Tracking Any Point in Persistent 3D Geometry
+
+
 ## TTS
 ### Local
 - [Piper](https://github.com/rhasspy/piper)
