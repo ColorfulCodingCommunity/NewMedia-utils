@@ -1,4 +1,4 @@
-# NewMedia-utils
+![image](https://github.com/user-attachments/assets/9be7afb3-5414-43a4-89c8-5214c2982924)# NewMedia-utils
 
 Repository of several new media algorithms and tools.
 
@@ -8,6 +8,9 @@ Repository of several new media algorithms and tools.
 
 ## 3D point tracking
 - [TAPIP3D](https://github.com/zbw001/TAPIP3D) - Tracking Any Point in Persistent 3D Geometry
+
+## Face stuff
+- [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam.git)
 
 ## STT
 - [NVidia Parakeet](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2) - Open Source, 600M parameters, "60 minutes of audio in just 1 second"
