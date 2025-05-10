@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9be7afb3-5414-43a4-89c8-5214c2982924)# NewMedia-utils
+# NewMedia-utils
 
 Repository of several new media algorithms and tools.
 
@@ -8,6 +8,12 @@ Repository of several new media algorithms and tools.
 
 ## 3D point tracking
 - [TAPIP3D](https://github.com/zbw001/TAPIP3D) - Tracking Any Point in Persistent 3D Geometry
+
+## Body Pose Estimation
+- [RTMLIB](https://github.com/Tau-J/rtmlib) - rtmlib is a super lightweight library to conduct pose estimation based on RTMPose models WITHOUT any dependencies like mmcv, mmpose, mmdet, etc.
+
+## Data Visualization
+- [ReRun](https://rerun.io/) - Open source log handling and visualization for spatial and embodied AI.
 
 ## Face stuff
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam.git)
