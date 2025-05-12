@@ -33,5 +33,5 @@ Repository of several new media algorithms and tools.
 
 
 # Code coming soon (they say)
-
+- [GENMO](https://research.nvidia.com/labs/dair/genmo/) - Anything to body motion animation - music, text, video
 - [GUAVA](https://eastbeanzhang.github.io/GUAVA/) - Generalizable Upper Body 3D Gaussian Avatar
