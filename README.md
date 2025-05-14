@@ -17,6 +17,7 @@ Repository of several new media algorithms and tools.
 
 ## Face stuff
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam.git)
+- [KeySync](https://github.com/antonibigata/keysync) - Face lip-sync
 
 ## STT
 - [NVidia Parakeet](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2) - Open Source, 600M parameters, "60 minutes of audio in just 1 second"
