@@ -24,6 +24,7 @@ Repository of several new media algorithms and tools.
 
 ## TTS
 ### Local
+- [Chatterbox](https://github.com/petermg/Chatterbox-TTS-Extended) - Text to Speech + Voice Cloning
 - [Dia](https://github.com/nari-labs/dia) - Very expressive, unpredictable, faulty
 - [F5-TTS](https://github.com/SWivid/F5-TTS) - FineTuneable 💖, One-Shot voice cloning, MultiVoice one-shot cloning, Multilingual [Tutorial1](https://youtu.be/GmketyZW2c4)
 - [Kokoro](https://huggingface.co/spaces/hexgrad/Kokoro-TTS)
