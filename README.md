@@ -19,6 +19,9 @@ Repository of several new media algorithms and tools.
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam.git)
 - [KeySync](https://github.com/antonibigata/keysync) - Face lip-sync
 
+## LLM
+- [LLaMa Factory](https://github.com/hiyouga/LLaMA-Factory) - Easily fine tune 100+ LLMs
+
 ## STT
 - [NVidia Parakeet](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2) - Open Source, 600M parameters, "60 minutes of audio in just 1 second"
 
