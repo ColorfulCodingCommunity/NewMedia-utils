@@ -16,8 +16,11 @@ Repository of several new media algorithms and tools.
 - [ReRun](https://rerun.io/) - Open source log handling and visualization for spatial and embodied AI.
 
 ## Face stuff
+- [CGS-GAN](https://github.com/fraunhoferhhi/cgs-gan) - CGS-GAN 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis.
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam.git)
 - [KeySync](https://github.com/antonibigata/keysync) - Face lip-sync
+
+
 
 ## LLM
 - [LLaMa Factory](https://github.com/hiyouga/LLaMA-Factory) - Easily fine tune 100+ LLMs
