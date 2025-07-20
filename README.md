@@ -9,6 +9,8 @@ Repository of several new media algorithms and tools.
 ## 3D point tracking
 - [TAPIP3D](https://github.com/zbw001/TAPIP3D) - Tracking Any Point in Persistent 3D Geometry
 
+## Background Removal
+- [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) - Remove bg for people videos
 ## Body Pose Estimation
 - [RTMLIB](https://github.com/Tau-J/rtmlib) - rtmlib is a super lightweight library to conduct pose estimation based on RTMPose models WITHOUT any dependencies like mmcv, mmpose, mmdet, etc.
 
@@ -19,8 +21,6 @@ Repository of several new media algorithms and tools.
 - [CGS-GAN](https://github.com/fraunhoferhhi/cgs-gan) - CGS-GAN 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis.
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam.git)
 - [KeySync](https://github.com/antonibigata/keysync) - Face lip-sync
-
-
 
 ## LLM
 - [LLaMa Factory](https://github.com/hiyouga/LLaMA-Factory) - Easily fine tune 100+ LLMs
