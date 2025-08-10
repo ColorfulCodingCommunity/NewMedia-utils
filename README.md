@@ -36,6 +36,7 @@ Repository of several new media algorithms and tools.
 - [Dia](https://github.com/nari-labs/dia) - Very expressive, unpredictable, faulty
 - [F5-TTS](https://github.com/SWivid/F5-TTS) - FineTuneable 💖, One-Shot voice cloning, MultiVoice one-shot cloning, Multilingual [Tutorial1](https://youtu.be/GmketyZW2c4)
 - [Kokoro](https://huggingface.co/spaces/hexgrad/Kokoro-TTS)
+- [OpenAudio-S1-mini](https://speech.fish.audio/) - Former Fish-Speech
 - [Orpheus](https://github.com/canopyai/Orpheus-TTS) - Expressive
 - [Piper](https://github.com/rhasspy/piper) - Multilingual, no voice cloning
 ### Cloud
