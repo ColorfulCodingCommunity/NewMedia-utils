@@ -22,6 +22,9 @@ Repository of several new media algorithms and tools.
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam.git)
 - [KeySync](https://github.com/antonibigata/keysync) - Face lip-sync
 
+## Gaussian Splat
+- [Gaussian Decimator](https://github.com/feel3x/Gaussian_Decimatior)
+
 ## LLM
 - [LLaMa Factory](https://github.com/hiyouga/LLaMA-Factory) - Easily fine tune 100+ LLMs
 
