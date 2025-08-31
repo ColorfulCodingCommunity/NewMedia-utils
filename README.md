@@ -43,6 +43,7 @@ Repository of several new media algorithms and tools.
 - [OpenAudio-S1-mini](https://speech.fish.audio/) - Former Fish-Speech
 - [Orpheus](https://github.com/canopyai/Orpheus-TTS) - Expressive
 - [Piper](https://github.com/rhasspy/piper) - Multilingual, no voice cloning
+- [VibeVoice](https://microsoft.github.io/VibeVoice/) - expressive, long-form, multi-speaker conversational audio.
 ### Cloud
 - [Google Chirp 3](https://cloud.google.com/text-to-speech/docs/chirp3-hd)
 
