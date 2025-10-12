@@ -4,7 +4,8 @@ Repository of several new media algorithms and tools.
 
 ## 3D estimation
 ### Monocular
--  [Unik3D](https://github.com/lpiccinelli-eth/unik3d) -  Universal Camera Monocular 3D Estimation
+- [DA2](https://depth-any-in-any-dir.github.io/?utm_source=substack&utm_medium=email) - Depth Anything in Any Direction - 360 image to depth 
+- [Unik3D](https://github.com/lpiccinelli-eth/unik3d) -  Universal Camera Monocular 3D Estimation
 
 ## 3D point tracking
 - [TAPIP3D](https://github.com/zbw001/TAPIP3D) - Tracking Any Point in Persistent 3D Geometry
