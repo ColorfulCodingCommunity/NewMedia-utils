@@ -26,6 +26,9 @@ Repository of several new media algorithms and tools.
 ## Gaussian Splat
 - [Gaussian Decimator](https://github.com/feel3x/Gaussian_Decimatior)
 
+## Image
+- [Qwen-Image-Edit](https://huggingface.co/Qwen/Qwen-Image-Edit-2509) - Nano-banana like editing + faceswap
+
 ## LLM
 - [LLaMa Factory](https://github.com/hiyouga/LLaMA-Factory) - Easily fine tune 100+ LLMs
 
