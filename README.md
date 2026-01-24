@@ -10,6 +10,9 @@ Repository of several new media algorithms and tools.
 ## 3D point tracking
 - [TAPIP3D](https://github.com/zbw001/TAPIP3D) - Tracking Any Point in Persistent 3D Geometry
 
+## 4DGS
+-[FreeTimeGSVanilla](https://github.com/OpsiClear/FreeTimeGsVanilla)
+
 ## Background Removal
 - [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) - Remove bg for people videos
 ## Body Pose Estimation
