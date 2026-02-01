@@ -39,6 +39,9 @@ Repository of several new media algorithms and tools.
 - [Dots.OCR](https://github.com/rednote-hilab/dots.ocr)
 - [ZeroX](https://github.com/getomni-ai/zerox) - A dead simple way of OCR-ing a document for AI ingestion. Documents are meant to be a visual representation after all. With weird layouts, tables, charts, etc. The vision models just make sense!
 
+## RAG
+- [PageIndex: Vectorless, Reasoning-based RAG](https://github.com/VectifyAI/PageIndex)
+
 ## STT
 - [NVidia Parakeet](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2) - Open Source, 600M parameters, "60 minutes of audio in just 1 second"
 
