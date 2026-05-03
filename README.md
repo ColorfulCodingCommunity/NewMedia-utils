@@ -21,6 +21,10 @@ Repository of several new media algorithms and tools.
 ## Data Visualization
 - [ReRun](https://rerun.io/) - Open source log handling and visualization for spatial and embodied AI.
 
+## Depth Estimation
+- [DepthAnything V3 Deepstream](https://github.com/Raessan/depth_anything_v3_deepstream) - realtime
+- [DinoV3 Deepstream](https://github.com/Raessan/dinov3_deepstream) - realtime
+
 ## Face stuff
 - [CGS-GAN](https://github.com/fraunhoferhhi/cgs-gan) - CGS-GAN 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis.
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam.git)
