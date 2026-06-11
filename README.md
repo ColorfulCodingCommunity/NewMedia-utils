@@ -39,6 +39,11 @@ Repository of several new media algorithms and tools.
 ## LLM
 - [LLaMa Factory](https://github.com/hiyouga/LLaMA-Factory) - Easily fine tune 100+ LLMs
 
+
+## MoCap
+- [Sam3D CPP](https://github.com/AmmarkoV/SAM3DBody-cpp)
+- [SysMocap](https://github.com/xianfei/SysMocap)
+
 ## OCR
 - [Dots.OCR](https://github.com/rednote-hilab/dots.ocr)
 - [ZeroX](https://github.com/getomni-ai/zerox) - A dead simple way of OCR-ing a document for AI ingestion. Documents are meant to be a visual representation after all. With weird layouts, tables, charts, etc. The vision models just make sense!
