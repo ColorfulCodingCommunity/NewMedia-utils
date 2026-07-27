@@ -75,3 +75,8 @@ Repository of several new media algorithms and tools.
 # Code coming soon (they say)
 - [GENMO](https://research.nvidia.com/labs/dair/genmo/) - Anything to body motion animation - music, text, video
 - [GUAVA](https://eastbeanzhang.github.io/GUAVA/) - Generalizable Upper Body 3D Gaussian Avatar
+
+# Video Generation
+
+## LTX 2.3
+- [Cross-View LoRA](https://huggingface.co/Cseti/LTX2.3-22B_IC-LoRA-CrossView-Warp) -  you give it a video and a camera offset (azimuth / elevation / distance), and it generates the same scene from that new viewpoint
