@@ -72,6 +72,9 @@ Repository of several new media algorithms and tools.
 - [Google Chirp 3](https://cloud.google.com/text-to-speech/docs/chirp3-hd)
 
 
+## Video Understanding
+- [Mage-VL 4B](https://huggingface.co/microsoft/Mage-VL)
+
 # Code coming soon (they say)
 - [GENMO](https://research.nvidia.com/labs/dair/genmo/) - Anything to body motion animation - music, text, video
 - [GUAVA](https://eastbeanzhang.github.io/GUAVA/) - Generalizable Upper Body 3D Gaussian Avatar
