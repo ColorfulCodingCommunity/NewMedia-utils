@@ -85,3 +85,6 @@ Repository of several new media algorithms and tools.
 
 ## LTX 2.3
 - [Cross-View LoRA](https://huggingface.co/Cseti/LTX2.3-22B_IC-LoRA-CrossView-Warp) -  you give it a video and a camera offset (azimuth / elevation / distance), and it generates the same scene from that new viewpoint
+
+## Minimax H3
+- [ComfyUI multishot workflow](https://huggingface.co/joeygambino/MiniMax-H3-Multishot-Workflow) - Creates multiple shots and blend one into another
