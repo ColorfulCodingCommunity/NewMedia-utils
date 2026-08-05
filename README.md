@@ -30,6 +30,7 @@ Repository of several new media algorithms and tools.
 - [CGS-GAN](https://github.com/fraunhoferhhi/cgs-gan) - CGS-GAN 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis.
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam.git)
 - [KeySync](https://github.com/antonibigata/keysync) - Face lip-sync
+- [LeapTalk](https://github.com/zhangrongxiang/LeapTalk) - Realtime audio-driven talking head generation
 
 ## Gaussian Splat
 - [Gaussian Decimator](https://github.com/feel3x/Gaussian_Decimatior)
