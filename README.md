@@ -34,6 +34,7 @@ Repository of several new media algorithms and tools.
 
 ## Gaussian Splat
 - [Gaussian Decimator](https://github.com/feel3x/Gaussian_Decimatior)
+- [InfiniSplat](https://huggingface.co/spaces/PLUS-WAVE/InfiniSplat) - Image to Splat
 
 ## Image
 - [Qwen-Image-Edit](https://huggingface.co/Qwen/Qwen-Image-Edit-2509) - Nano-banana like editing + faceswap
