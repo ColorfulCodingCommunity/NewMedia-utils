@@ -88,3 +88,6 @@ Repository of several new media algorithms and tools.
 
 ## Minimax H3
 - [ComfyUI multishot workflow](https://huggingface.co/joeygambino/MiniMax-H3-Multishot-Workflow) - Creates multiple shots and blend one into another
+
+### Workflows
+- [Minimax H3 Foxfurrescence](https://www.reddit.com/r/StableDiffusion/comments/1vft59e/minimax_ref2va_is_ai_filmmaking_gold_so_i_made_a/) - great explained ideal workflow.
