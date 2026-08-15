@@ -55,6 +55,7 @@ Repository of several new media algorithms and tools.
 - [PageIndex: Vectorless, Reasoning-based RAG](https://github.com/VectifyAI/PageIndex)
 
 ## STT
+- [FireRed TTS3](https://huggingface.co/spaces/hugging-apps/firered-tts3) - replace words in spoken audio
 - [NVidia Parakeet](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2) - Open Source, 600M parameters, "60 minutes of audio in just 1 second"
 
 ## Tools
