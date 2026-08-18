@@ -16,6 +16,7 @@ Repository of several new media algorithms and tools.
 
 ## Background Removal
 - [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) - Remove bg for people videos
+
 ## Body Pose Estimation
 - [RTMLIB](https://github.com/Tau-J/rtmlib) - rtmlib is a super lightweight library to conduct pose estimation based on RTMPose models WITHOUT any dependencies like mmcv, mmpose, mmdet, etc.
 
@@ -60,6 +61,7 @@ Repository of several new media algorithms and tools.
 
 ## Tools
 - [COLMAP Viewer](https://colmapview.github.io/)
+- [Frame extractor](https://github.com/morishuz/frame-extractor) - Extract frames for photogrammetry very optimal
 
 ## TTS
 ### Local
